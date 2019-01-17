@@ -10,3 +10,5 @@ function removeFromPlaylist(playlist, artist) {
   delete playlist.Slowdive
   return(playlist)
 }
+
+
